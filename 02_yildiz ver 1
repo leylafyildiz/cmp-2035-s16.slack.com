@@ -1,0 +1,70 @@
+<html>
+  <head>
+    <title>LOTR; SOME SCHEMATICS</title>
+    <meta name=description"
+      content="Lord of the Rings LOTR ROHAN, GONDOR AND THE LANDS WEST OF MIRKWOOD" />
+    <meta name="keywords"
+      content="Lord of the Rings, maps gondor mirkwood, geography middle earth" />
+      <!--I thought meta tagwords were obsolete!-->
+  </head>
+  <body>
+  	<h1>LOTR; SOME SCHEMATICS</h1>
+  	<h2>ROHAN, GONDOR AND THE LANDS WEST OF MIRKWOOD</h2>
+    <h3> A Sampling of the Schedule on the First Weekend in March 2016</h3>
+    <br></br>
+    <hr>
+    <br></br>
+    <table>
+      <!--SCHEDULE-->
+      <tr>
+        <th></th>
+        <th scope="col"> Thursday</th>
+        <th scope="col"> Friday</th>
+        <th scope="col"> Saturday</th>
+      </tr>
+       <!--WORKSHOPS AND PRESENTERS, LOCATION-->
+      <tr>
+        <th scope="row"> Presenting</th>
+        <td>Workshop on Men and City of Gondor</td>
+        <td>Workshop on Rohan; It's Past and Present to Time Now</td>
+        <td>Following the Greenway (North-South Road)</td>
+      </tr>
+      <tr>
+        <th scope="row"> Presenters</th>
+        <td> Boromir of Gondor</td>
+        <td> Euweyn of Rohan</td>
+        <td> Kili and Fili The Dwarves of Dale</td>
+      </tr>
+      <tr>
+        <th scope="row">Location</th>
+        <td>White Tree of Gondor, 11 am</td>
+        <td>Meduseld, the Golden Hall, 2.00 pm</td>
+        <td>Bree, 12 noon (lunch served at the Inn Prancing Pony)</td>
+      </tr>
+      </table>
+      <br></br>
+      <br></br>       
+      <hr>
+      <br></br>   
+       <!--FORMS-->
+      <form action="/register" method="POST">
+        <p> <h2>Registration for LOTR; Some Schematics</h2></p>
+        <fieldset>
+        <legend><b>Contact Details</b></legend>
+        <label>email address</label>
+        <input type="text name="email" /></label><br />
+        <label>mobile number</label>
+        <input type="text name="mobile number" /></label><br />
+        <label>first and surname</label>
+        <input type="first and surname" name="first and surname" /></label><br />
+        </fieldset>
+        <iframe
+          width="450"
+          height="350"
+          src="https://www.google.com/maps/place/Arthur's+Seat,+Edinburgh+EH8,+UK/@55.9440825,-3.1705881,15z/data=!3m1!4b1!4m2!3m1!1s0x4887b884112f22b9:0x218a466c41934cf0;output=embed">
+        </iframe>
+
+
+
+
+   
