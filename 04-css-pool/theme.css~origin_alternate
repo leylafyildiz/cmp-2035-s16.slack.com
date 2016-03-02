@@ -5,5 +5,5 @@ body {
     color: #00008B:}
 
 h1 {
-    color:azure
+    color:azure ;
                     }
