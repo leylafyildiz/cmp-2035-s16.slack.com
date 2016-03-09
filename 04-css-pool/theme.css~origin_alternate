@@ -1,9 +1,0 @@
-body { 
-    font-family: avenir, sans-serif; 
-    background-color: #F0F000; 
-    font-size: 18px; 
-    color: #00008B:}
-
-h1 {
-    color:azure ;
-                    }
